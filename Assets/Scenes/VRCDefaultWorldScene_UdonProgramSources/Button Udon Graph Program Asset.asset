@@ -39,7 +39,7 @@ MonoBehaviour:
     nodes:
     - fullName: Variable_UnityEngineGameObject
       uid: b734a595-e7c3-4661-8268-e35a46089de0
-      position: {x: 0, y: 0}
+      position: {x: 2478.08, y: 1822.8}
       nodeUIDs:
       - 
       - 
@@ -69,7 +69,7 @@ MonoBehaviour:
       nodeValues: []
     - fullName: Get_Variable
       uid: 994b5294-7e40-42a8-a23c-8194372e09b6
-      position: {x: -2964.0005, y: -1853.0803}
+      position: {x: -3028, y: -1848}
       nodeUIDs:
       - 
       flowUIDs: []
@@ -113,7 +113,7 @@ MonoBehaviour:
           PublicKeyToken=b77a5c561934e089|False
     - fullName: Variable_UnityEngineUIText
       uid: a33b7e75-29ed-4889-8168-4906b813e590
-      position: {x: 0, y: 0}
+      position: {x: 2478.08, y: 1822.8}
       nodeUIDs:
       - 
       - 
